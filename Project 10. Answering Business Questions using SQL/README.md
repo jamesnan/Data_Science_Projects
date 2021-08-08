@@ -2,7 +2,9 @@
 
 ### About:
 
-In this project, we're using SQL to answer business questions. We'll use the Chinook database, which is provided as a SQLite database file called chinook.db. The database schema is below:
+In this project, we're using SQL to answer business questions.
+
+We'll use the Chinook database, which is provided as a SQLite database file called chinook.db. The database schema is below:
 
 <img src="chinook-schema.svg" width="800">
 
