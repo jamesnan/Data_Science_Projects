@@ -2,7 +2,9 @@
 
 ### About:
 
-The aim of this project is to create storytelling data visualization. Our focus in the project will be on the exchange rate between the euro and the American dollar. 
+The aim of this project is to create storytelling data visualization. 
+
+Our focus in the project will be on the exchange rate between the euro and the American dollar. 
 
 ### Work flow:
 
