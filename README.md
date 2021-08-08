@@ -1,0 +1,25 @@
+# Dataquest - Data Analysis in Python Projects
+
+This repository is a series of notebooks that show my solution of guided projects at Dataquest.io. All the projects were created from September 2020 till now.
+
+ * Project 1. [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2001.%20Profitable%20App)
+ * Project 2. [Exploring Hacker News Posts](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2002.%20Exploring%20Hacker%20News%20Posts)
+ * Project 3. [Exploring Ebay Car Sales Data](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2003.%20Exploring%20Ebay%20Car%20Sales%20Data)
+ * Project 4. [Finding Heavy Traffic Indicators on I-94](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2004.%20Heavy%20Traffic%20Indicators%20on%20I-94)
+ * Project 5. [Storytelling Exchange Rates](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2005.%20Storytelling%20Exchange%20Rates)
+ * Project 6. [Clean And Analyze Employee Exit Surveys](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2006.%20Clean%20And%20Analyze%20Employee%20Exit%20Surveys)
+ * Project 7. [Analyzing NYC High School Data](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2007.%20Analyzing%20NYC%20High%20School%20Data)
+ * Project 8. [Star Wars Survey](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2008.%20Star%20Wars%20Survey)
+ * Project 9. [Analyzing CIA Factbook Data Using SQL](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2009.%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQL)
+ * Project 10. [Answering Business Questions using SQL](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2010.%20Answering%20Business%20Questions%20using%20SQL)
+ * Project 11. [Popular Data Science Questions](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2011.%20Popular%20Data%20Science%20Questions)
+ * Project 12. [Investigating Fandango's Movie Rating System](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2012.%20Investigating%20Fandango's%20Movie%20Rating%20System)
+ * Project 13. [Finding the Best Markets to Advertise In](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2013.%20Finding%20Best%20Markets%20to%20advertise%20E-Learning)
+ * Project 14. [Mobile App for Lottery Addiction](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2014.%20Mobile%20App%20for%20Lottery%20Addiction)
+ * Project 15. [Building a Spam Filter with Naive Bayes](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2015.%20Building%20a%20Spam%20Filter%20with%20Naive%20Bayes)
+ * Project 16. [Winning Jeopardy](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2016.%20Winning%20Jeopardy)
+ * Project 17. [Predicting Car Prices](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2017.%20Predicting%20Car%20Prices)
+ * Project 18. [Predicting House Sale Prices](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2018.%20Predicting%20House%20Sale%20Prices)
+ * Project 19. [Predicting Bike Rentals](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2019.%20Predicting%20Bike%20Rentals)
+ * Project 20. [Building A Handwritten Digits Classifier](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2020.%20Building%20A%20Handwritten%20Digits%20Classifier)
+ * Project 21. [Creating a Kaggle Workflow](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2021.%20Creating%20a%20Kaggle%20Workflow)
