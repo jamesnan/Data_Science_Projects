@@ -1,4 +1,4 @@
-# Dataquest - Data Analysis Projects in Python
+# Dataquest Projects - Data Analysis in Python
 
 This repository is a series of notebooks that show my solution of guided projects at Dataquest.io. All the projects were created from September 2020 till now.
 
