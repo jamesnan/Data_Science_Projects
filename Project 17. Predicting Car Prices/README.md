@@ -7,7 +7,7 @@ In this project, we'll practice the machine learning workflow to predict a car's
 ### Steps:
 
   * Cleaning Data
-  * Building Univariate Model
+  * Building Univariate k-nearest neighbors Model
   * Building Multivariate Model
   * Hyperparameter Tuning
 
