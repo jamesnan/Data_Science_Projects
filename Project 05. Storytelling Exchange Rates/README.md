@@ -11,7 +11,7 @@ Our focus in the project will be on the exchange rate between the euro and the A
  * Exploring and cleaning the data.
  * To brainstorm ideas for storytelling data visualizations and chose one.
  * Sketching a Graph
- * Codeing the Graph
+ * Make 3 storytelling Graph
 
 ### Built With :
 
