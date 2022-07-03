@@ -1,6 +1,6 @@
 # Data Analysis in Python
 
-This repository is a collection of notebooks that show my solution of guided projects at Dataquest.io. All the projects were created from September 2020 till now.
+This repository is a collection of data since projects at Dataquest.io. All the projects were created from September 2020 till now.
 
  * Project 1. [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2001.%20Profitable%20App)
  * Project 2. [Exploring Hacker News Posts](https://github.com/jamesnan/Data_Science_Projects/tree/master/Project%2002.%20Exploring%20Hacker%20News%20Posts)
